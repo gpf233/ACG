@@ -1,0 +1,55 @@
+- [x] 巫师3：狂猎
+- [x] 冰与火之舞
+- [x] B4B
+- [ ] 黑神话：悟空
+- [x] P5R
+- [x] 雀魂麻将
+- [x] 人类一败涂地
+- [ ] 赛博朋克2077
+- [x] 深岩银河
+- [x] 双人成行
+- [x] 糖豆人
+- [ ] 无主之地3
+- [x] 夜族崛起
+- [x] 疑案追声
+- [x] Aimlabs
+- [ ] ARK
+- [x] Celeste
+- [ ] 城市：天际线
+- [ ] 茶杯头
+- [ ] 黑魂3
+- [ ] 死亡细胞
+- [ ] 鬼泣5
+- [x] 你画我猜
+- [ ] 老滚5
+- [ ] 逃脱者2
+- [ ] 鹅鸭杀
+- [x] GTAV
+- [x] Grounded
+- [ ] Hades
+- [ ] 空洞骑士
+- [x] INSIDE
+- [x] Just Shapes & Beats
+- [x] KeyWe
+- [ ] Left 4 Dead
+- [ ] Lethal Company
+- [x] LIMBO
+- [x] Muse Dash
+- [x] Neon Beats
+- [x] Ori
+- [x] Overcooked!
+- [x] Portal
+- [ ] PUBG
+- [x] Pummel Party
+- [ ] Rise of the Tomb Raider
+- [ ] The Room
+- [x] Sekiro: Shadows Die Twice
+- [ ] Stardew Valley
+- [ ] STEINS;GATE
+- [ ] STEINS;GATE0
+- [x] Terraria
+- [x] tModLoader
+- [ ] Tomb Raider
+- [x] Undertale
+- [x] Valheim:英灵神殿
+- [ ] Warhammer:Vermintide 2
