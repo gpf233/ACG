@@ -53,3 +53,23 @@
 - [x] Undertale
 - [x] Valheim:英灵神殿
 - [ ] Warhammer:Vermintide 2
+- [ ] Factorio
+- [ ] DELTARUNE
+- [ ] Beat Saber
+- [ ] 艾尔登法环
+- [ ] 荒野大镖客2
+- [ ] 饥荒
+- [ ] 幸福工厂
+- [ ] 消逝的光芒
+- [ ] 师父
+- [ ] 寻找天堂
+- [ ] 博德之门3
+- [ ] 逆转裁判
+- [ ] Raft
+- [ ] 暗喻幻想
+- [ ] 神界原罪2
+- [ ] 桌游模拟器
+- [ ] 波兰球：编年史
+- [ ] 晃晃人生
+- [ ] 超级鸡马
+- [ ] Castle Crashers
